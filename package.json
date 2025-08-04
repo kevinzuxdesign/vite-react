@@ -1,11 +1,9 @@
 {
-  "dependencies": {
-    "react-router-dom": "^7.7.1"
-  },
-  "devDependencies": {
-    "vite": "^7.0.6"
-  },
   "scripts": {
     "build": "vite build"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.7.1",
+    "vite": "^5.0.0"
   }
 }
